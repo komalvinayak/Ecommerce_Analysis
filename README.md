@@ -81,7 +81,7 @@ analysispart3/
 <body>
 <hr>
 
-<h2>⚙️ How It Works</h2>
+<h2>How It Works</h2>
 <p>This dashboard works in a few simple steps:</p>
 <h3>1. <strong>Data Collection</strong></h3>
 <ul>
@@ -137,10 +137,10 @@ analysispart3/
 </li>
 </ul>
 <hr>
-<h3>📄 Page 2: <strong>Data Collection</strong></h3>
+
 <hr>
-<h2>📊 Data Collection</h2>
-<h3>🔍 Sources:</h3>
+<h2> Data Collection</h2>
+<h3> Sources:</h3>
 <ul>
 <li>
 <p><strong>Amazon</strong> – via product ASIN scraping</p>
