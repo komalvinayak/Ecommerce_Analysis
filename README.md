@@ -153,15 +153,13 @@ analysispart3/
 </li>
 </ul>
 <h3> Collected Fields:</h3>
-
+for each platform
 Field | Description
 -- | --
 Product Name | Name of the product
-Platform | Amazon / Flipkart / Jiomart
 Price | Final listed price (₹)
 Discount | % off on the MRP
-Rating | Average user rating
-Rating Count | Total number of reviews
+Date | Date wise collection
 URL/ASIN | Product Identifier
 
 
