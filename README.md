@@ -11,7 +11,7 @@ The dashboard highlights variations in pricing strategies across platforms. Futu
 </a>
 
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes and compares prices, discounts, ratings, and other details of electronic products from:
 
@@ -23,7 +23,7 @@ The goal is to help users identify where they can get the best deal on various m
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 analysispart3/
@@ -44,16 +44,15 @@ analysispart3/
 
 ---
 
-## 📊 Features
+##  Features
 
-- 📉 **Price Comparison** – Compare product prices across sites.
-- 🏷️ **Discount Insights** – Identify the highest discounts.
-- ⭐ **Ratings Overview** – Average rating and rating counts.
-- 📈 **Visual Charts** – Interactive Dash graphs for each platform.
+-  **Price Comparison** – Compare product prices across sites.
+-  **Discount Insights** – Identify the highest discounts.
+-  **Visual Charts** – Interactive Dash graphs for each platform.
 
 ---
 
-## ⚙️ How to Use
+##  How to Use
 
 1. Clone the repository.
 2. Install required packages:
@@ -71,7 +70,7 @@ analysispart3/
 
 ---
 
-## 📸 Preview
+## Preview
 
 
 ```[Dashboard_Ecommerce_Video](https://github.com/komalvinayak/Ecommerce_Analysis/blob/main/Ecommerce_Dashboard.mp4)``
@@ -153,7 +152,7 @@ analysispart3/
 <p><strong>Jiomart</strong> – accessed using dynamic product URLs</p>
 </li>
 </ul>
-<h3>📦 Collected Fields:</h3>
+<h3> Collected Fields:</h3>
 
 Field | Description
 -- | --
@@ -166,7 +165,7 @@ Rating Count | Total number of reviews
 URL/ASIN | Product Identifier
 
 
-<h3>📁 Output Format:</h3>
+<h3>Output Format:</h3>
 <ul>
 <li>
 <p>Data is saved in <code inline="">.xlsx</code> files per platform.</p>
@@ -177,7 +176,7 @@ URL/ASIN | Product Identifier
 </ul>
 
 <hr>
-<h3>📦 Contact:</h3>
+<h3> Contact:</h3>
 
 
 For questions or suggestions, feel free to open an issue or reach out on [[GitHub](https://github.com/komalvinayak)](https://github.com/komalvinayak).
