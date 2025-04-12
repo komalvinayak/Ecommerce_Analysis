@@ -4,6 +4,9 @@ This project compares pricing and discount trends for electronics like mobiles, 
 An interactive dashboard built with Plotly Dash lets users filter by product type, brand, and model. It includes pages like an overview, raw data preview, price/discount comparisons, and platform-specific insights using line charts, bar graphs, and box plots.
 
 The dashboard highlights variations in pricing strategies across platforms. Future upgrades may include real-time data, more product types, and predictive pricing analytics.
+## Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/jAeH3v5VpAs/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://youtu.be/jAeH3v5VpAs?si=4gaFDUcxDvfbNjvW))
 
 ## 📌 Project Overview
 
