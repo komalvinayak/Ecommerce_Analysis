@@ -6,7 +6,10 @@ An interactive dashboard built with Plotly Dash lets users filter by product typ
 The dashboard highlights variations in pricing strategies across platforms. Future upgrades may include real-time data, more product types, and predictive pricing analytics.
 ## Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/jAeH3v5VpAs/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://youtu.be/jAeH3v5VpAs?si=4gaFDUcxDvfbNjvW))
+## Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/jAeH3v5VpAs/maxresdefault.jpg)](https://youtu.be/jAeH3v5VpAs?si=4gaFDUcxDvfbNjvW)
+
 
 ## 📌 Project Overview
 
